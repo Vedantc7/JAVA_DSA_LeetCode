@@ -1,4 +1,4 @@
-package Sort_Algorithms;
+package Sort_Algorithms.Cyclic_Sort_Sums;
 //https://leetcode.com/problems/missing-number/
 public class leetcodeQ1 {
 

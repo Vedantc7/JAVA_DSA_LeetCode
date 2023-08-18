@@ -1,4 +1,4 @@
-package Sort_Algorithms;
+package Sort_Algorithms.Cyclic_Sort_Sums;
 
 public class leetcodeQ6 {
     public int firstMissingPositive(int[] arr) {

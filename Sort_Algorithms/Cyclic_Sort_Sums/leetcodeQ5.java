@@ -1,4 +1,4 @@
-package Sort_Algorithms;
+package Sort_Algorithms.Cyclic_Sort_Sums;
 //https://leetcode.com/problems/set-mismatch/
 public class leetcodeQ5 {
     public int[] findErrorNums(int[] arr) {

@@ -1,4 +1,4 @@
-package Sort_Algorithms;
+package Sort_Algorithms.Cyclic_Sort_Sums;
 //https://leetcode.com/problems/find-the-duplicate-number/
 public class leetcodeQ3 {
     public int findDuplicate(int[] nums) {

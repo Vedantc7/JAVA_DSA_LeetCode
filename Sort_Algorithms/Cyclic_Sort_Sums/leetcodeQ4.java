@@ -1,4 +1,4 @@
-package Sort_Algorithms;
+package Sort_Algorithms.Cyclic_Sort_Sums;
 
 import java.util.ArrayList;
 import java.util.List;
